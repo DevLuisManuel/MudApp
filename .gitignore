@@ -1,0 +1,6 @@
+/assets/*
+!/assets/index.html
+/uploads/*
+!/uploads/index.html
+/protected/runtime/*
+!/protected/runtime/index.html
